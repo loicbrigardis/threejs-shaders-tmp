@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(31, 31, 31);
+  background: linear-gradient(
+    0deg,
+    rgba(31, 31, 31, 1) 0%,
+    rgba(60, 60, 60, 1) 100%
+  );
+}
+
+canvas {
+  display: block;
+}
+
+
+/*# sourceMappingURL=/style.a11e3109.css.map */
